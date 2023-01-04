@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 🌱 I'm currently learning **Python, SQL, Typescript**  <br />
 📔 I'm currently reading : Python Algorithms - Mastering Basic Algoruthms in the Python Language by Mangus Hetland. <br />
 
-anguages and Tools:
-css3 express figma git html5 javascript mongodb nodejs react
+Languages and Tools:
+css express HTML javascript mongodb nodejs reactjs python figma git
