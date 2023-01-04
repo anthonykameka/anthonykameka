@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 🏆 I recently graduated from Concordia University's Web Developement bootcamp (December 2022).
+🔨 I’m currently building [Peace of Music](https://github.com/anthonykameka/PeaceofMusic)
