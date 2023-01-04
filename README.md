@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 🏆 I recently graduated from Concordia University's Web Developement bootcamp (December 2022).<br />
-🔨 I’m currently building [Peace of Music](https://github.com/anthonykameka/PeaceofMusic).
+🔨 I’m currently building [Peace of Music](https://github.com/anthonykameka/PeaceofMusic). <br />
+🌱 I'm currently learning **Python, SQL, Typescript**  <br />
+📔 I'm currently reading : Python Algorithms - Mastering Basic Algoruthms in the Python Language by Mangus Hetland. <br />
