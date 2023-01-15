@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🌱 I'm currently learning **Python, SQL, Typescript**  <br />
 📔 I'm currently reading : 
 1) Automate the Easy Way (Python)   
-2) 2) Python Algorithms - Mastering Basic Algoruthms in the Python Language by Mangus Hetland. <br />
+2) Python Algorithms - Mastering Basic Algoruthms in the Python Language by Mangus Hetland. <br />
 
 Languages and Tools:
 css express HTML javascript mongodb nodejs reactjs python figma git
