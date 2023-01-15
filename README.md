@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏆 I recently graduated from Concordia University's Web Developement bootcamp (December 2022).<br />
+🏆 I recently graduated from Concordia University's Web Developement bootcamp (December 31 2022).<br />
 🔨 I’m currently building [Peace of Music](https://github.com/anthonykameka/PeaceofMusic). <br />
 🌱 I'm currently learning **Python, SQL, Typescript**  <br />
-📔 I'm currently reading : Python Algorithms - Mastering Basic Algoruthms in the Python Language by Mangus Hetland. <br />
+📔 I'm currently reading : 1) Automate the Easy Way (Python) Python Algorithms - Mastering Basic Algoruthms in the Python Language by Mangus Hetland. <br />
 
 Languages and Tools:
 css express HTML javascript mongodb nodejs reactjs python figma git
