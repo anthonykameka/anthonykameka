@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏆 I recently graduated from Concordia University's Web Developement bootcamp (December 31 2022).<br />
-🔨 I’m currently building [Peace of Music](https://github.com/anthonykameka/PeaceofMusic). <br />
 🌱 I'm currently learning **Python, SQL, Typescript, Java**  <br />
 📔 I'm currently reading : 
 1) Mathematics for Computer Science - Eric Lehmann <br />
