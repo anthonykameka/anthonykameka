@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 🏆 I recently graduated from Concordia University's Web Developement bootcamp (December 31 2022).<br />
 🔨 I’m currently building [Peace of Music](https://github.com/anthonykameka/PeaceofMusic). <br />
-🌱 I'm currently learning **Python, SQL, Typescript**  <br />
+🌱 I'm currently learning **Python, SQL, Typescript, Java**  <br />
 📔 I'm currently reading : 
-1) Automate the Boring Stuff with Python -  Al Sweigart
+1) Mathematics for Computer Science - Eric Lehmann <br />
 2) Python Algorithms - Mastering Basic Algorithms in the Python Language by Mangus Hetland. <br />
 
 Languages and Tools:
-css express HTML javascript mongodb nodejs reactjs python figma git
+css express HTML javascript mongodb nodejs reactjs python figma git styled components java
+
+
+📫 How to reach me: ... anthonykameka9@gmail.com / https://www.linkedin.com/in/anthony-kameka-400829204/
