@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I'm currently learning **Python, SQL, Typescript, Java**  <br />
+🌱 I'm currently learning **Python, Java, Typescript  <br />
 📔 I'm currently reading : 
 1) Mathematics for Computer Science - Eric Lehmann <br />
 2) Python Algorithms - Mastering Basic Algorithms in the Python Language by Mangus Hetland. <br />
