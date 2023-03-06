@@ -3,8 +3,9 @@
 </h3>
 
 
-
+<p align="center">
 <img style="display:block;margin:auto;" src="https://user-images.githubusercontent.com/89666837/223213838-36adf6d7-98fd-43ae-9135-05f1b22a1fce.png" width="500" />
+  </p>
 
 
 - 🔭 I’m currently working on [Peace of Music](https://github.com/anthonykameka/PeaceofMusic/)
@@ -15,8 +16,8 @@
 
 - 📫 How to reach me **anthonykameka9@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
