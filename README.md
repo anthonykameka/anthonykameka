@@ -6,6 +6,7 @@
 <p align="center">
 <img style="display:block;margin:auto;" src="https://user-images.githubusercontent.com/89666837/223213838-36adf6d7-98fd-43ae-9135-05f1b22a1fce.png" width="500" />
   </p>
+  <p align="center"> Created in Midjourney, using my photograph. I'm very interested in AI. </p>
 <p align="center">
 
 <p align=:center>- 🔭 I’m currently working on [Peace of Music](https://github.com/anthonykameka/PeaceofMusic/) </p>
