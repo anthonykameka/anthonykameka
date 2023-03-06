@@ -8,7 +8,7 @@
   </p>
 <p align="center">
 
-- 🔭 I’m currently working on [Peace of Music](https://github.com/anthonykameka/PeaceofMusic/)
+<p align=:center>- 🔭 I’m currently working on [Peace of Music](https://github.com/anthonykameka/PeaceofMusic/) </p>
 
 - 🌱 I’m currently learning **Java, Typescript**
 
