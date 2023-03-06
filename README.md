@@ -4,7 +4,7 @@
 
 
 
-<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://user-images.githubusercontent.com/89666837/223213838-36adf6d7-98fd-43ae-9135-05f1b22a1fce.png)" width="100" />
+<img src="https://user-images.githubusercontent.com/89666837/223213838-36adf6d7-98fd-43ae-9135-05f1b22a1fce.png" width="200" />
 
 
 - 🔭 I’m currently working on [Peace of Music](https://github.com/anthonykameka/PeaceofMusic/)
