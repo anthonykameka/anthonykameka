@@ -6,7 +6,7 @@
 <p align="center">
 <img style="display:block;margin:auto;" src="https://user-images.githubusercontent.com/89666837/223213838-36adf6d7-98fd-43ae-9135-05f1b22a1fce.png" width="500" />
   </p>
-
+<p align="center">
 
 - 🔭 I’m currently working on [Peace of Music](https://github.com/anthonykameka/PeaceofMusic/)
 
@@ -15,6 +15,8 @@
 - 💬 Ask me about **React.js, JavaScript, MongoDB, Express.js, Python**
 
 - 📫 How to reach me **anthonykameka9@gmail.com**
+  
+  <p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
