@@ -2,7 +2,9 @@
 <h3 align="center">A passionate programmer and from Montreal Canada.
 </h3>
 
-![kamekat_coding_in_a_studio_surrounded_by_instruments_cartoon_we_aef82286-a729-4508-bdae-46bb54ce9686](https://user-images.githubusercontent.com/89666837/223213838-36adf6d7-98fd-43ae-9135-05f1b22a1fce.png)
+
+
+<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://user-images.githubusercontent.com/89666837/223213838-36adf6d7-98fd-43ae-9135-05f1b22a1fce.png)" width="200" />
 
 
 - 🔭 I’m currently working on [Peace of Music](https://github.com/anthonykameka/PeaceofMusic/)
